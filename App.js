@@ -18,6 +18,7 @@ const store = configureStore({
 // used navigationstack to navigate screens
 const Stack = createNativeStackNavigator();
 
+
  function App(){
   return(
     <NavigationContainer>
