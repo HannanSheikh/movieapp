@@ -30,6 +30,12 @@ Start the server
   npm start
 ```
 
+For build 
+
+```bash
+  npm run build
+```
+
 
 ## Tech Stack
 
